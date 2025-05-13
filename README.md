@@ -1,2 +1,2 @@
 # Raport10
-Raport10 - zadania z zajęć
+Zadanie z zajęć
